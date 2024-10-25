@@ -1,0 +1,60 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService";
+
+package greet;
+
+// The greeting service definition.
+service Greeter {
+   rpc SayHello (HelloRequest) returns (HelloReply);
+   rpc SayHellos (HelloRequest) returns (stream HelloReply);
+   rpc AccumulateCount (stream CounterRequest) returns (CounterResponse);
+   rpc Echo (stream EchoeRequest) returns (stream EchoResponse);
+
+  // Unary
+  //rpc UnaryCall (ExampleRequest) returns (ExampleResponse);
+
+  // Server streaming
+  //rpc StreamingFromServer (ExampleRequest) returns (stream ExampleResponse);
+
+  // Client streaming
+  //rpc StreamingFromClient (stream ExampleRequest) returns (ExampleResponse);
+
+  // Bi-directional streaming
+  //rpc StreamingBothWays (stream ExampleRequest) returns (stream ExampleResponse);
+
+}
+
+message HelloRequest {
+  string name = 1;
+}
+
+message HelloReply {
+  string message = 1;
+}
+
+message CounterRequest {
+  int32 count = 1;
+}
+
+message CounterResponse {
+  int32 count = 1;
+}
+
+message EchoeRequest {
+   string message = 1;
+}
+
+message EchoResponse {
+   string message = 1;
+}
+
+/*message ExampleRequest {
+    int32 pageIndex = 1;
+    int32 pageSize = 2;
+    bool isDescending = 3;
+}
+
+message ExampleResponse {
+  string message = 1;
+}*/

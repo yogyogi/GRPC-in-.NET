@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Yogesh\\SEO\\Yogihosting\\new\\GRPC\\GrpcService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65794DC7-9CB4-4106-B01B-68872766B62B}|GrpcService\\GrpcService.csproj|e:\\yogesh\\seo\\yogihosting\\new\\grpc\\grpcservice\\grpcservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65794DC7-9CB4-4106-B01B-68872766B62B}|GrpcService\\GrpcService.csproj|solutionrelative:grpcservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65794DC7-9CB4-4106-B01B-68872766B62B}|GrpcService\\GrpcService.csproj|e:\\yogesh\\seo\\yogihosting\\new\\grpc\\grpcservice\\grpcservice\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65794DC7-9CB4-4106-B01B-68872766B62B}|GrpcService\\GrpcService.csproj|solutionrelative:grpcservice\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65794DC7-9CB4-4106-B01B-68872766B62B}|GrpcService\\GrpcService.csproj|e:\\yogesh\\seo\\yogihosting\\new\\grpc\\grpcservice\\grpcservice\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{65794DC7-9CB4-4106-B01B-68872766B62B}|GrpcService\\GrpcService.csproj|solutionrelative:grpcservice\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "greet.proto",
+              "DocumentMoniker": "E:\\Yogesh\\SEO\\Yogihosting\\new\\GRPC\\GrpcService\\GrpcService\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "GrpcService\\Protos\\greet.proto",
+              "ToolTip": "E:\\Yogesh\\SEO\\Yogihosting\\new\\GRPC\\GrpcService\\GrpcService\\Protos\\greet.proto",
+              "RelativeToolTip": "GrpcService\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-10-01T14:32:35.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Yogesh\\SEO\\Yogihosting\\new\\GRPC\\GrpcService\\GrpcService\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcService\\Program.cs",
+              "ToolTip": "E:\\Yogesh\\SEO\\Yogihosting\\new\\GRPC\\GrpcService\\GrpcService\\Program.cs",
+              "RelativeToolTip": "GrpcService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:24:47.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "E:\\Yogesh\\SEO\\Yogihosting\\new\\GRPC\\GrpcService\\GrpcService\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "GrpcService\\Services\\GreeterService.cs",
+              "ToolTip": "E:\\Yogesh\\SEO\\Yogihosting\\new\\GRPC\\GrpcService\\GrpcService\\Services\\GreeterService.cs",
+              "RelativeToolTip": "GrpcService\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:32:22.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
