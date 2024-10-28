@@ -12,7 +12,6 @@ There will be 2 console  project. First is the gRPC Server and second is the gRP
 2. Server Streaming Call example
 3. Client Streaming Call example
 4. Bi-directional Streaming Call example
-5. gRPC Authentication & Authorization with JWT Tokens
 
 ## Support
 
